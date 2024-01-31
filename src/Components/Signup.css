@@ -1,0 +1,33 @@
+.foorm {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background-color: #68abc5;
+    color: white;
+    border-radius: 5px;
+    
+    
+  }
+  
+  .foorm label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  .foorm input {
+    width: 100%;
+    padding: 5px;
+    
+    border-radius: 5px;
+  }
+  
+  .foorm button {
+    background-color: #1bd449;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    fontweight: bold;
+  }
